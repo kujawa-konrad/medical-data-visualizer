@@ -6,7 +6,6 @@ import numpy as np
 
 # ALL COMMENTS BELOW WERE MADE BY CREATORS OF THIS TASK. CODE IS MINE.
 
-
 # Import data
 df = pd.read_csv('medical_examination.csv')
 
